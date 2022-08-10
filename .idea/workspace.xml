@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="081a8b77-b7a9-429b-a956-d3f781652b12" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/easy/2_longestWord.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy/3_firstFactorial.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy/4_firstReverse.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/easy.js" beforeDir="false" afterPath="$PROJECT_DIR$/easy.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +62,7 @@
       <updated>1659702781587</updated>
       <workItem from="1659702782889" duration="232000" />
       <workItem from="1659703213344" duration="17000" />
-      <workItem from="1660123415107" duration="5345000" />
+      <workItem from="1660123415107" duration="5937000" />
     </task>
     <servers />
   </component>
@@ -76,7 +74,24 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
