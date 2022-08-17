@@ -10,11 +10,19 @@
 //
 // console.log(firsFactorial(8))
 
+
+
+
 // import { firstReverse } from "./easy/4_firstReverse.js";
 //
 // console.log(firstReverse("selam"))
 
-import {findintersection} from "./easy/5_findintersection.js";
+// import {findintersection} from "./easy/5_findintersection.js";
 
 // console.log(findintersection(["1, 3, 4, 7, 13", "1, 2, 4, 13, 15"]))
-console.log(findintersection(["1, 4, 5, 13, 19", "1, 4, 13, 15"]))
+// console.log(findintersection(["1, 4, 5, 13, 19", "1, 4, 13, 15"]))
+
+
+import {questionMark} from "./easy/6_questionMark.js";
+
+console.log(questionMark("acc?7??sss?3rr1?????5?"))
