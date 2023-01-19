@@ -13,9 +13,8 @@ export const letterChange = (str) => {
         }
     })
 
-    let vowelStr = newStr.replace(/a | e | o | i | u/gi, (char) => {
-        return char.toUpperCase()
-    })
+    let vowelStr = newStr.replace(/[aeoui]/gi, (char) => char.toUpperCase())
+    // let vowelStr = newStr.replace(/a|e|o|i|u/gi, (char) => char.toUpperCase())
 
     return vowelStr
 }
