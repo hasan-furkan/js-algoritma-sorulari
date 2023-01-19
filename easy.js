@@ -23,6 +23,11 @@
 // console.log(findintersection(["1, 4, 5, 13, 19", "1, 4, 13, 15"]))
 
 
-import {questionMark} from "./easy/6_questionMark.js";
+// import {questionMark} from "./easy/6_questionMark.js";
+//
+// console.log(questionMark("acc?7??sss?3rr1?????5?"))
 
-console.log(questionMark("acc?7??sss?3rr1?????5?"))
+
+import {letterChange} from "./easy/7_letterChange.js";
+
+console.log(letterChange("hello"))
