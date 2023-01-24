@@ -38,6 +38,6 @@
 // console.log(simpleAdding(100))
 
 
-import {letterCapitalize} from "./easy/9_letterCapitalize.js";
+import {simpleSymbols} from "./easy/10_simpleSymbols.js";
 
-console.log(letterCapitalize("merhaba bugun hava cok gunesli"))
+console.log(simpleSymbols('++d+===+c++==a+'))
