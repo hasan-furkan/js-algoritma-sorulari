@@ -38,6 +38,10 @@
 // console.log(simpleAdding(100))
 
 
-import {simpleSymbols} from "./easy/10_simpleSymbols.js";
+// import {simpleSymbols} from "./easy/10_simpleSymbols.js";
+//
+// console.log(simpleSymbols('++d+===+c++==a+'))
 
-console.log(simpleSymbols('++d+===+c++==a+'))
+import {timeConvert} from "./easy/11_timeConvert.js";
+
+console.log(timeConvert(72))
