@@ -42,6 +42,10 @@
 //
 // console.log(simpleSymbols('++d+===+c++==a+'))
 
-import {timeConvert} from "./easy/11_timeConvert.js";
+// import {timeConvert} from "./easy/11_timeConvert.js";
+//
+// console.log(timeConvert(72))
 
-console.log(timeConvert(72))
+import {alphabetSoup} from "./easy/12_alphabetSoup.js";
+
+console.log(alphabetSoup("hadsaf"))
