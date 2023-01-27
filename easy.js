@@ -46,6 +46,10 @@
 //
 // console.log(timeConvert(72))
 
-import {alphabetSoup} from "./easy/12_alphabetSoup.js";
+// import {alphabetSoup} from "./easy/12_alphabetSoup.js";
+//
+// console.log(alphabetSoup("hadsaf"))
 
-console.log(alphabetSoup("hadsaf"))
+import {abCheck} from "./easy/13_abCheck.js";
+
+console.log(abCheck("lane borrowed"))
