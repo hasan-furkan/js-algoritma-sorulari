@@ -50,6 +50,10 @@
 //
 // console.log(alphabetSoup("hadsaf"))
 
-import {abCheck} from "./easy/13_abCheck.js";
+// import {abCheck} from "./easy/13_abCheck.js";
+//
+// console.log(abCheck("lane borrowed"))
 
-console.log(abCheck("lane borrowed"))
+import {exOh} from "./easy/14_exOh.js";
+
+console.log(exOh("xooxxo"))
