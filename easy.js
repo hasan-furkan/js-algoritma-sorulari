@@ -54,6 +54,10 @@
 //
 // console.log(abCheck("lane borrowed"))
 
-import {exOh} from "./easy/14_exOh.js";
+// import {exOh} from "./easy/14_exOh.js";
+//
+// console.log(exOh("xooxxo"))
 
-console.log(exOh("xooxxo"))
+import {wordCount} from "./easy/15_wordCount.js";
+
+console.log(wordCount(" hello world file "))
