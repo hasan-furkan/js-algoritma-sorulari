@@ -58,6 +58,10 @@
 //
 // console.log(exOh("xooxxo"))
 
-import {wordCount} from "./easy/15_wordCount.js";
+// import {wordCount} from "./easy/15_wordCount.js";
+//
+// console.log(wordCount(" hello world file "))
 
-console.log(wordCount(" hello world file "))
+import {vowelCount} from "./easy/16_vowelCount.js";
+
+console.log(vowelCount("All cows eat grass"))
