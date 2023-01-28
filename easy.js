@@ -62,6 +62,11 @@
 //
 // console.log(wordCount(" hello world file "))
 
-import {vowelCount} from "./easy/16_vowelCount.js";
+// import {vowelCount} from "./easy/16_vowelCount.js";
+//
+// console.log(vowelCount("All cows eat grass"))
 
-console.log(vowelCount("All cows eat grass"))
+
+import {isPalindrome} from "./easy/17_isPalindrome.js";
+
+console.log(isPalindrome("racecar"))
