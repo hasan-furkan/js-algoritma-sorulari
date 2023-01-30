@@ -66,7 +66,10 @@
 //
 // console.log(vowelCount("All cows eat grass"))
 
+// import {isPalindrome} from "./easy/17_isPalindrome.js";
+//
+// console.log(isPalindrome("racecar"))
 
-import {isPalindrome} from "./easy/17_isPalindrome.js";
+import {arithGeo} from "./easy/18_arithGeo.js";
 
-console.log(isPalindrome("racecar"))
+console.log(arithGeo([2,6,18,54]))
